@@ -139,6 +139,16 @@ Interstellar is a science fiction film directed by Christopher Nolan. The story 
 - Save Extraction History
 
 ---
+## Sample Output
+
+<img width="1896" height="652" alt="image" src="https://github.com/user-attachments/assets/8789abe6-8583-4312-8a1b-dc011d5584f1" />
+
+
+# After Output
+<img width="1907" height="855" alt="image" src="https://github.com/user-attachments/assets/3d13fe2b-ebb3-4444-9fb2-039343be2d9c" />
+<img width="1888" height="726" alt="image" src="https://github.com/user-attachments/assets/5201b327-3896-4a20-8a38-4d3c845fef3f" />
+
+
 
 ## 👨‍💻 Author
 
